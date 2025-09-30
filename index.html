@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+
+  <body>
+    <main class="main-content">
+      <div style="display: flex">
+        <h1>
+          The <br />
+          Movie <br />
+          Tracker
+        </h1>
+        <!-- Search Bar -->
+        <div class="search-container">
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Search a movie or a series"
+          />
+          <button id="searchBtn">🔍</button>
+        </div>
+      </div>
+
+      <!-- Sections -->
+      <div style="display: flex; gap: 100px">
+        <section class="section">
+          <h2>Currently Watching</h2>
+          <div id="currentlyWatching" class="movie-grid"></div>
+        </section>
+
+        <section class="section">
+          <h2>Suggested To Watch</h2>
+          <div id="suggestedMovies" class="movie-grid"></div>
+        </section>
+      </div>
+
+      <section class="section">
+        <h2>Previously Watched</h2>
+        <div id="previouslyWatched" class="movie-grid"></div>
+      </section>
+    </main>
+    <!-- </div> -->
+    <script type="module" src="./src/js/script.js"></script>
+  </body>
+</html>
