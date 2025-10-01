@@ -1,0 +1,44 @@
+{
+  "currentlyWatching": [
+    {
+      "name": "The Batman",
+      "image_url": "https://image.tmdb.org/t/p/w200/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    },
+    {
+      "name": "Stranger Things",
+      "image_url": "https://image.tmdb.org/t/p/w200/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg"
+    }
+  ],
+  "previouslyWatched": [
+    {
+      "name": "Inception",
+      "image_url": "https://image.tmdb.org/t/p/w200/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg"
+    },
+    {
+      "name": "The Dark Knight",
+      "image_url": "https://image.tmdb.org/t/p/w200/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    }
+  ],
+  "results": [
+    {
+      "name": "Interstellar",
+      "image_url": "https://image.tmdb.org/t/p/w200/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+    },
+    {
+      "name": "The Office",
+      "image_url": "https://image.tmdb.org/t/p/w200/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg"
+    },
+    {
+      "name": "Spider-Man: No Way Home",
+      "image_url": "https://image.tmdb.org/t/p/w200/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    },
+    {
+      "name": "Breaking Bad",
+      "image_url": "https://image.tmdb.org/t/p/w200/ggFHVNu6YYI5L9pCfOacjizRGt.jpg"
+    },
+    {
+      "name": "Toy Story",
+      "image_url": "https://image.tmdb.org/t/p/w200/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+    }
+  ]
+}
